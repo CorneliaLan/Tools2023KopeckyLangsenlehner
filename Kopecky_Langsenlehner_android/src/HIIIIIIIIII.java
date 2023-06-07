@@ -1,8 +1,7 @@
 
 public class HIIIIIIIIII {
 <<<<<<< HEAD
-	public void thisIsANewMethod() {
-}
+	public void thisIsANewMethod() { }
 =======
 	
 	public static void main(String[] args) {
