@@ -3,6 +3,7 @@ public class HIIIIIIIIII {
 <<<<<<< HEAD
 	public void thisIsANewMethod() { 
 	System.out.println("Once upon a time...");//keep searching for the eastereggs :)
+	System.out.println("he switchtes from one island to another");
 	System.out.println("At the park-island he collected his third star and some coins too");
 }
 =======
