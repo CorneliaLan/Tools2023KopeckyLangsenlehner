@@ -2,7 +2,6 @@
 public class HIIIIIIIIII {
 <<<<<<< HEAD
 	public void thisIsANewMethod() {
-		System.out.print("there was a little mole monty"); // Have fun!
 }
 =======
 	
