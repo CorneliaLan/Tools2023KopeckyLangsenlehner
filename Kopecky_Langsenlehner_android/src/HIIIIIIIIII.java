@@ -1,7 +1,9 @@
 
 public class HIIIIIIIIII {
 <<<<<<< HEAD
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		System.out.print("there was a little mole monty"); // Have fun!
+}
 =======
 	
 	public static void main(String[] args) {
